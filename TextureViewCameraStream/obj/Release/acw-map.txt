@@ -1,0 +1,4 @@
+TextureViewCameraStream.Activity1, StreamIT;md55758b62758e08704db3d35eeec4aa346.Activity1
+TextureViewCameraStream.Activity1, StreamIT, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55758b62758e08704db3d35eeec4aa346.Activity1
+TextureViewCameraStream.Activity1;md55758b62758e08704db3d35eeec4aa346.Activity1
+textureviewcamerastream.Activity1;md55758b62758e08704db3d35eeec4aa346.Activity1
